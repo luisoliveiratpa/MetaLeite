@@ -1,4 +1,4 @@
-# Pojeto MetaLeite
+# MetaLeite
 
 # Índice
 * [Objetivo do Projeto](#objetivo-do-projeto)
@@ -8,10 +8,8 @@
 * [Registro das Sprints](#Registro-das-Sprints)
 
 
-# Projeto (API) 
-Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
-Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
-Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprint
+# Pojeto MetaLeite
+Este projeto pedagógico apresenta o aplicativo mobile MetaLeite, desenvolvido para otimizar a gestão de pequenas propriedades leiteiras através de um sistema offline-first. A ferramenta automatiza o controle sanitário, reprodutivo e de estoque, calculando a viabilidade econômica individual de cada animal. Com uma interface simples, o app ajuda o produtor a identificar quais vacas geram lucro ou prejuízo direto no campo.
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
