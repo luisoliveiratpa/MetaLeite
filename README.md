@@ -17,12 +17,7 @@ Este projeto pedagógico apresenta o aplicativo mobile MetaLeite, desenvolvido p
 | Scrum Master  | Luís Henrique Maciel Oliveira |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)     |
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+Desenvolver o app MetaLeite para ajudar o pequeno produtor na gestão de vacinas, gestação e insumos de forma offline, calculando a viabilidade financeira individual de cada animal para evitar prejuízos. A solução visa modernizar o controle no campo, transformando dados do cotidiano em decisões estratégicas para aumentar a lucratividade da fazenda.
 
 
 ## Tecnologias Utilizadas
