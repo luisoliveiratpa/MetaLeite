@@ -22,12 +22,11 @@ Desenvolver o app MetaLeite para ajudar o pequeno produtor na gestão de vacinas
 
 ## Tecnologias Utilizadas
 
-* Jira Software
-* Power BI
-* Microsoft Excel
-* Slack
-* Python (Colab)
-* Mysql
+* GitHub
+* Expo.dev
+* Figma
+* Gemini 
+* ChatGPT 
 
 
 
